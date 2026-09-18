@@ -1,10 +1,7 @@
 # WovenAI
 
-Star Dream Project の実装組織。文明の自律的発展と自立化を、知性体とそのネットワークで実現する。
+Star Dream Project の実装組織。
 
-構成要素は二つだけである。
+知性体（Intelligent Entity）と Global Intelligence Grid を構築し、文明の自律的発展と自立化を実現する。
 
-- **Intelligent Entity** — 観測・思考・判断・連携・実行・改善を自律的に行うカーネルを積んだ知性体
-- **Global Intelligence Grid** — 知性体間で意味・資源・権限を交渉するネットワーク
-
-実装ハブや個別プロダクトは構成要素に含めない。現在は知性体カーネルに集中している。
+現在は知性体カーネルの開発に集中している。
