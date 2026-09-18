@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WovenAI/.github@main/profile/assets/field-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WovenAI/.github@main/profile/assets/field-light.svg">
-  <img src="https://cdn.jsdelivr.net/gh/WovenAI/.github@main/profile/assets/field-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WovenAI/.github@efe70c5e7c95f0a42c2c33fabc6c99feee76dbe1/profile/assets/field-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WovenAI/.github@efe70c5e7c95f0a42c2c33fabc6c99feee76dbe1/profile/assets/field-light.svg">
+  <img src="https://cdn.jsdelivr.net/gh/WovenAI/.github@efe70c5e7c95f0a42c2c33fabc6c99feee76dbe1/profile/assets/field-light.svg" width="100%" alt="">
 </picture>
 
 # 文明の自律的発展
