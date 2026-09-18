@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/WovenAI/.github@main/profile/assets/civilization.svg" width="100%" alt="文明の自律的発展" />
+  <img src="assets/civilization.svg" width="100%" alt="文明の自律的発展" />
 </p>
 
 # 文明の自律的発展
