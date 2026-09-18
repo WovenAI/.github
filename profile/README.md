@@ -1,7 +1,12 @@
-# WovenAI
+<div align="center">
 
-Star Dream Project の実装組織。
+**WovenAI**
 
-知性体（Intelligent Entity）と Global Intelligence Grid を構築し、文明の自律的発展と自立化を実現する。
+文明は進歩するが、人間は進歩しない。  
+この非対称性を解消する。
 
-現在は知性体カーネルの開発に集中している。
+`Intelligent Entity` · `GIG`
+
+いまはカーネル。
+
+</div>
