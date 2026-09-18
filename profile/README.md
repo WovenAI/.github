@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/WovenAI/.github/main/profile/assets/mark.svg" alt="" width="480" />
 
-**WovenAI**
-
-文明の自律的発展
+# 文明の自律的発展
 
 </div>
 
